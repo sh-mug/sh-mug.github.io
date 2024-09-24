@@ -11,6 +11,11 @@ a {
     color: #d6bcaa;
 }
 
+.link {
+    position: absolute;
+    top: 20px;
+}
+
 .mug {
     position: relative;
     width: 150px;
