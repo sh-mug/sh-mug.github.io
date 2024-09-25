@@ -7,8 +7,16 @@ body {
     background-color: #d6bcaa;
 }
 
+* {
+    font-family: 'Noto sans', sans-serif;
+}
+
 a {
     color: #d6bcaa;
+}
+
+h1 {
+    font-size: min(2em, 7.5vw);
 }
 
 .link {
