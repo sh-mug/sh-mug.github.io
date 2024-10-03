@@ -19,6 +19,12 @@ h1 {
     font-size: min(2em, 7.5vw);
 }
 
+ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
 .link {
     position: absolute;
     top: 20px;
